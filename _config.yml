@@ -32,13 +32,13 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  About: /about/
-  Blog: /blog/
+  Inicio: /
+  Acerca: /acerca/
+  Papers: /papers/
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+  Hacia arriba: "#top"
 
 # Collections
 collections:
