@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website
+title: Laboratorio de Neurobiología y Biología del Conocer
 layout: page
 feature_image: img/background.jpg
 feature_text: |
