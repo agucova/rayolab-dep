@@ -24,7 +24,7 @@ baseurl: ''
 title: 'RayoLab'
 description: 'Laboratorio de Neurobiología y Biología del Conocer'
 permalink: pretty
-logo: "img/logo.png"
+logo: "/img/logo.png"
 
 # Pagination
 paginate: 5
