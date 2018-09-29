@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this website
+title: Acerca del Laboratorio
+published: true
 ---
-
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+No tengo ni idea de que se trata el laboratorio, pero si tienes una idea, avísame!
