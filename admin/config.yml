@@ -43,4 +43,4 @@ collections: # A list of collections the CMS should be able to edit
     format: yml
     extension: yml
     fields: # The fields each document in this collection have
-      - {label: "Body", name: "body", widget: "yml"}
+      - {label: "List", name: "list", widget: "text"}
