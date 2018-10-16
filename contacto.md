@@ -1,20 +1,21 @@
 ---
 title: Contacto
 layout: page
-feature_image: img/background.jpg
 published: true
+permalink: /contacto/
+page.title: Contacto
 ---
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
-    <input type="text" name="email" placeholder="Email Address">
-    <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
+    <input type="text" name="email" placeholder="Email">
+    <textarea type="text" name="content" rows="10" placeholder="Mensaje"></textarea>
     <input type="hidden" name="_next" value="<REDIRECTION LINK> ">
-    <input type="hidden" name="_subject" value="New Contact Form Submission">
+    <input type="hidden" name="_subject" value="Nuevo mensaje en la web.">
     <input type="text" name="_gotcha" style="display:none">
-    <input type="submit" value="Submit">
+    <input type="submit" value="Enviar">
 </form>
 
-<style>
+<!-- <style>
 form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
     width: 100%;
     vertical-align: middle;
@@ -40,4 +41,4 @@ form.wj-contact input[type="submit"] {
     border: 1px solid transparent;
     height: auto;
 }
-</style>
+</style> -->

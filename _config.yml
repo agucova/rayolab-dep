@@ -17,7 +17,6 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
-- jekyll-scholar
 
 # Site settings
 url: 'https://rayolab.netlify.com/'
@@ -26,6 +25,7 @@ title: 'RayoLab'
 description: 'Laboratorio de Neurobiología y Biología del Conocer'
 permalink: pretty
 logo: "/img/logo.png"
+email: agucova@gmail.com
 
 # Pagination
 paginate: 5
@@ -37,6 +37,8 @@ navigation_header:
   Acerca: /acerca/
   Papers: /papers/
   Blog: /blog/
+  Contacto: /contacto/
+  
 # Footer nav
 navigation_footer:
   Hacia arriba: "#top"
@@ -50,5 +52,3 @@ collections:
     feature_text: |
       Bienvenido al blog del laboratorio.
     feature_image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7e6ee620a83a58299246d66dd761671e&auto=format&fit=crop"
-scholar:
-  style: apa
