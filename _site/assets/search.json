@@ -1,0 +1,61 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hola Mundo",
+        "excerpt": "Todavia no hay nada interesante que mostrarme, estoy seguro de que algo se nos ocurrirá pronto!\n",
+        "content": "Todavia no hay nada interesante que mostrarme, estoy seguro de que algo se nos ocurrirá pronto!\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Acerca",
+    "excerpt": "\n",
+    "content": "No tengo ni idea de que se trata el laboratorio, pero si tienes una idea, avísame!\n",
+    "url": "/acerca/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Contacto",
+    "excerpt": "\n",
+    "content": "\n    \n    \n    \n    \n    \n    \n\n\n\n\n",
+    "url": "/contacto/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Qué Hacemos",
+    "excerpt": "\n",
+    "content": "El laboratorio de neurobiología y biología del conocer es un laboratorio…\n\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sed erat dictum, rutrum dui quis, consequat ante. Donec sollicitudin nunc ac tortor cursus, eu hendrerit diam molestie. Duis ac tincidunt purus. Fusce a mi vel sapien porttitor tristique. Aenean ornare quis ligula non vestibulum. Maecenas euismod lacus eu rutrum feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi volutpat consectetur nibh quis efficitur. Etiam vestibulum eleifend justo nec tincidunt. Suspendisse ullamcorper nisi ac mi consequat ultrices.\n\nInteger sit amet sem vitae dui interdum pharetra nec quis turpis. Quisque a dui a elit ultricies dapibus. Donec sodales commodo arcu a consectetur. Nullam viverra sollicitudin gravida. Sed suscipit augue in mattis molestie. Nullam tincidunt, nunc vitae egestas porttitor, justo tortor fringilla lorem, ac aliquam turpis arcu sit amet mi. Aenean sagittis viverra nibh vel pretium. Fusce gravida tincidunt urna vel luctus. Sed pulvinar facilisis magna, et imperdiet quam pellentesque ac. Duis id fermentum nisi. Integer sollicitudin posuere laoreet.\n\nNuestros Asociados\n\n\n  \n      Rodrigo Dover: Trabajo en...\n  \n\n\n\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Papers",
+    "excerpt": "\n",
+    "content": "\n\n  \n      The nucleus pretectalis principalis: A pretectal structure hidden in the mammalian thalamus (Journal of Comparative Neurology\n      , 2018)\n  \n\n  \n      Selective binocular vision loss in two subterranean caviomorph rodents: Spalacopus cyanus and Ctenomys talarum (Scientific Reports\n      , 2017)\n  \n\n  \n      Microconnectomics of the pretectum and ventral thalamus in the chicken (Gallus gallus) (Journal of Comparative Neurology\n      , 2015)\n  \n\n\n",
+    "url": "/papers/"
+  }
+  
+]
+
