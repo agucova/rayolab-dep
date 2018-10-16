@@ -35,3 +35,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Featured image", name: "feature_image", widget: "image", required: false}
       - {label: "Feature text", name: "feature_text", widget: "markdown", required: false}
       - {label: "Meta image", name: "image", widget: "image", required: false}
+  - name: "data" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Data" # Used in the UI, ie.: "New Post"
+    folder: "_data" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    format: yml
+    extension: yml
+    fields: # The fields each document in this collection have
+      - {label: "Body", name: "body", widget: "yml"}
