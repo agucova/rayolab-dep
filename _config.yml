@@ -34,6 +34,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Inicio: /
+  Noticias: /allnews
   Acerca: /acerca/
   Papers: /papers/
   Blog: /blog/
